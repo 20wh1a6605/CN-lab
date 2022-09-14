@@ -1,3 +1,4 @@
+//flag = f, esc = e
 #include<stdio.h>
 #include<string.h>
 int main(){
