@@ -26,3 +26,9 @@ print(f"decoding is {divison(list(final),code)}")
 if list(divison(list(final),code)).count('0') == len(code)-1:
     print("Data transferred without any errors")
 
+'''Output:
+11
+1100000001111
+coding is 000000011110
+decoding is 000000000000
+Data transferred without any errors'''
